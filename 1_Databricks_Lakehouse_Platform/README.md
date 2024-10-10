@@ -13,8 +13,8 @@ On Day 1, you will dive into the foundational concepts of the Databricks Lakehou
 ## Tasks
 
 - *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 1: Introduction**
-  * [o] 1. Course Overview
-  * [o] 2. What is Databricks
+  * [x] 1. Course Overview
+  * [x] 2. What is Databricks
   * [ ] 3. Get started with Community Edition
   * [ ] 4. Free trial on Azure
   * [ ] 5. Exploring Workspace
