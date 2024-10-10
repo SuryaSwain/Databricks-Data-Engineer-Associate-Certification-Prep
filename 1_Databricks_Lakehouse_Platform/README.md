@@ -16,16 +16,17 @@ On Day 1, you will dive into the foundational concepts of the Databricks Lakehou
   * [x] [Lesson 8. Notebooks Fundamentals](./notes.md#lesson-8-notebooks-fundamentals)
   * [x] [Lesson 9. Databricks Repos (Git folders)](./notes.md#lesson-9-databricks-repos-git-folders)
 
+
 - *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 2: Databricks Lakehouse Platform**
-  * [ ] Lesson 10. Delta Lake
-  * [ ] Lesson 11. Understanding Delta Tables (Hands On)
-  * [ ] Lesson 12. Advanced Delta Lake Features
-  * [ ] Lesson 13. Apply Advanced Delta Features (Hands On)
-  * [ ] Lesson 14. Relational entities
-  * [ ] Lesson 15. Databases and Tables on Databricks (Hands On)
-  * [ ] Lesson 16. Set Up Delta Tables
-  * [ ] Lesson 17. Views
-  * [ ] Lesson 18. Working with Views (Hands On)
+  * [ ] [Lesson 10. Delta Lake]()
+  * [ ] [Lesson 11. Understanding Delta Tables (Hands On)]()
+  * [ ] [Lesson 12. Advanced Delta Lake Features]()
+  * [ ] [Lesson 13. Apply Advanced Delta Features (Hands On)]()
+  * [ ] [Lesson 14. Relational entities]()
+  * [ ] [Lesson 15. Databases and Tables on Databricks (Hands On)]()
+  * [ ] [Lesson 16. Set Up Delta Tables]()
+  * [ ] [Lesson 17. Views]()
+  * [ ] [Lesson 18. Working with Views (Hands On)]()
 
 
 ## Folder Structure
@@ -33,5 +34,7 @@ On Day 1, you will dive into the foundational concepts of the Databricks Lakehou
 ```
 Day_1_Databricks_Lakehouse_Platform/
 ├── README.md
-└── notes.md
+├── notes.md
+└── notebooks/
+    ├── 
 ```
