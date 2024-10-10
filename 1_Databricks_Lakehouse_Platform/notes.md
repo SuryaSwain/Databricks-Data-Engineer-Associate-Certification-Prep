@@ -4,7 +4,7 @@
 ## *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 1: Introduction**
 
 
-### 1. Course Overview
+### Lesson 1. Course Overview
 
 - Instructor
   * Name: **Derar Alhussein**, 
@@ -25,7 +25,7 @@
   * SQL language
   * basic Python
 
-### 2. What is Databricks
+### Lesson 2. What is Databricks
 
 - What is Databricks 
   
@@ -107,54 +107,160 @@
   So even after the cluster is terminated, all the data is safe in your cloud storage.
 
 
-### 3. Get started with Community Edition
+### Lesson 3. Get started with Community Edition
+
+  - Community edition is a lightweight Databricks environment for personal use and training.
 
 
-### 4. Free trial on Azure
+### Lesson 4. Free trial on Azure
+
+  - If you have a cloud account, you can use it to register for a 14-day Databricks full trial.
+
+  - A full trial in your cloud is recommended 
+  since it includes production grade functionalities 
+  that are not available in the limited community edition.
+
+  - Microsoft offers a free tier for 12 months, 
+  allowing you to explore and try out Azure services 
+  free of charge and up to specified limits for each service.
+
+  [Watch Video]()
+
+### Lesson 5. Exploring Workspace
+
+  [Watch Video]()
 
 
-### 5. Exploring Workspace
+### Lesson 6. Course Materials
+
+  Github Repository: https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate
+
+  [Course Materials DBC](../resources/Course-Materials.dbc)
+
+  [Watch Video]()
 
 
-### 6. Course Materials
+### Lesson 7. Creating Cluster
+
+  Navigate to "Compute" in the left side bar. ...
+
+  - A **cluster** is a set of nodes or computers working together like a single entity. 
+  It consists of a master node called the driver and some other worker nodes.
+  The driver node is responsible for coordinating the workers and their parallel execution of tasks.
+
+  - Your cluster could be multi node, that is having multiple workers, or simply a single node. 
+  A single node cluster, has no workers and run Spark jobs on the driver node.
+
+  - For the *access mode*, you can allow your cluster to be shared by multiple users. 
+  However, only SQL and Python workloads will be supported.
+
+  - **Databricks Runtime** is the virtual machine's image that comes with preinstalled libraries, 
+  which has a specific version of Spark, Scala and other libraries.
+
+  - In addition, you can choose to activate **Photon**, 
+  which is a vectorized query engine developed in C++ to enhance Spark performance.
+
+  - You can select the configuration of your worker nodes. 
+  These are different virtual machine sizes provided by your cloud provider,
+
+  - **DBU** stands for Databricks Unit and it is a unit of a processing capability per hour
+
+  - Changing the cluster configuration may require a restart of the cluster.
+
+  - In the cluster page, you can notice two things.
+    
+    * The Event log, that shows all the events that have happened with the cluster. 
+    For example, when the cluster was created or terminated, if it is edited or if it is running fine. 
+    This helps to track the activity on a cluster.
+    * In the driver log, you will get the log generated within the cluster notebooks and libraries.
+
+  [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34728190)
 
 
-### 7. Creating Cluster
+### Lesson 8. Notebooks Fundamentals
+
+  - Notebooks are coding environments allowing you 
+  to interactively developing and executing code on databricks.
+  You can also collaborate between different team members by sharing the notebook.
+
+  - Before running any computation, we need 
+  to attach your notebook to a cluster on which your code will be running.
+
+  - If you have previously used Jupyter Notebook, 
+  you will notice that the basic functionality is the same, 
+  but with additional features and capabilities that you might enjoy.
+
+  - Databricks notebooks support Python, SQL, Scala and R. 
+    * A language is selected when a notebook is created, but this can be changed at any time.
+    * In a notebook, you can change the language of a specific cell.
+
+  - *Magic commands* are built in commands that provide the same output regardless of the notebook language. This is called **Language Magic Command** that allows the execution of code in a language other than the
+      - `%sql` to run SQL 
+      - `%md` for markdown
+      - `%run` to run another notebook from the current notebook. For example, 
+        ```
+        %run ./Includes/Setup
+        ```
+      - `%fs` to deal with file system operations like LS for listing files in a given directory. For example,
+        ```
+        %fs ls '/databricks-datasets'
+        ```
+  
+  - Another way to deal with filesystem operations is to use databricks utilities, also known as `dbutils`. `dbutils` provides a number of utility commands for configuring and interacting with the environment.
+    * `dbutils.help()` function to get some help for each utility.
+    * `dbutils.fs.help()`
+    * Databricks notebooks also support auto completion using the 'Tab' key.
+    * `dbutils.fs.ls('/databricks-datasets')`
+    * In fact, dbutils is more useful than the %fs magic command since you can use dbutils as part of python code.
+      ```python
+      files = dbutils.fs.ls('/databricks-datasets')
+      display(files)
+      ```
+
+  - The **DBC** or the *Databricks Cloud file* is a zip file that contains a collection of directories and notebooks. 
+  This file can be uploaded into any databricks workspace to move or share notebooks.
+
+  - In Databricks notebooks, you can access the revision history of all the changes being made on a notebook.
+
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34742270#overview)
 
 
-### 8. Notebooks Fundamentals
+### Lesson 9. Databricks Repos (Git folders)
 
+  - Databricks Repos provides source control for your data projects by integrating with GitHub providers.
 
-### 9. Databricks Repos (Git folders)
+  - In order to work with Databricks Repos, we must first configure git integration in your workspace.
+
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34844752#overview)
 
 
 ## *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 2: Databricks Lakehouse Platform**
 
 
-### 10. Delta Lake
+### Lesson 10. Delta Lake
 
 
-### 11. Understanding Delta Tables (Hands On)
+### Lesson 11. Understanding Delta Tables (Hands On)
 
 
-### 12. Advanced Delta Lake Features
+### Lesson 12. Advanced Delta Lake Features
 
 
-### 13. Apply Advanced Delta Features (Hands On)
+### Lesson 13. Apply Advanced Delta Features (Hands On)
 
 
-### 14. Relational entities
+### Lesson 14. Relational entities
 
 
-### 15. Databases and Tables on Databricks (Hands On)
+### Lesson 15. Databases and Tables on Databricks (Hands On)
 
 
-### 16. Set Up Delta Tables
+### Lesson 16. Set Up Delta Tables
 
 
-### 17. Views
+### Lesson 17. Views
 
 
-### 18. Working with Views (Hands On)
+### Lesson 18. Working with Views (Hands On)
 
 

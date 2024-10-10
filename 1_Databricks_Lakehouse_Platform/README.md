@@ -15,13 +15,13 @@ On Day 1, you will dive into the foundational concepts of the Databricks Lakehou
 - *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 1: Introduction**
   * [x] 1. Course Overview
   * [x] 2. What is Databricks
-  * [ ] 3. Get started with Community Edition
-  * [ ] 4. Free trial on Azure
-  * [ ] 5. Exploring Workspace
-  * [ ] 6. Course Materials
-  * [ ] 7. Creating Cluster
-  * [ ] 8. Notebooks Fundamentals
-  * [ ] 9. Databricks Repos (Git folders)
+  * [x] 3. Get started with Community Edition
+  * [x] 4. Free trial on Azure
+  * [x] 5. Exploring Workspace
+  * [x] 6. Course Materials
+  * [x] 7. Creating Cluster
+  * [x] 8. Notebooks Fundamentals
+  * [x] 9. Databricks Repos (Git folders)
 
 - *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 2: Databricks Lakehouse Platform**
   * [ ] 10. Delta Lake
