@@ -3,9 +3,11 @@
 On Day 1, we will dive into the foundational concepts of the Databricks Lakehouse Platform. 
 
 
-## Tasks
+## Udemy Course: Databricks Certified Data Engineer Associate - Preparation
 
-- *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 1: Introduction**
+
+### Section 1: Introduction
+
   * [x] [Lesson 1. Course Overview](./lesson-1-course-overview.ipynb)
   * [x] [Lesson 2. What is Databricks](./lesson-2-what-is-databricks.ipynb)
   * [x] [Lesson 3. Get started with Community Edition](./lesson-3-get-started-with-community-edition.ipynb)
@@ -17,7 +19,8 @@ On Day 1, we will dive into the foundational concepts of the Databricks Lakehous
   * [x] [Lesson 9. Databricks Repos (Git folders)](./lesson-9-databricks-repos-git-folders.ipynb)
 
 
-- *Udemy Course: Databricks Certified Data Engineer Associate - Preparation* -- **Section 2: Databricks Lakehouse Platform**
+### Section 2: Databricks Lakehouse Platform
+
   * [ ] [Lesson 10. Delta Lake](./lesson-10-delta-lake.ipynb)
   * [ ] [Lesson 11. Understanding Delta Tables (Hands On)](./lesson-11-understanding-delta-tables-hands-on.ipynb)
   * [ ] [Lesson 12. Advanced Delta Lake Features](./lesson-12-advanced-delta-lake-features.ipynb)
