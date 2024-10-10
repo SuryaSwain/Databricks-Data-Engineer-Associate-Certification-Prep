@@ -8,26 +8,26 @@ On Day 1, we will dive into the foundational concepts of the Databricks Lakehous
 
 ### Section 1: Introduction
 
-  * [x] [Lesson 1. Course Overview](./lesson-1-course-overview.ipynb)
-  * [x] [Lesson 2. What is Databricks](./lesson-2-what-is-databricks.ipynb)
-  * [x] [Lesson 3. Get started with Community Edition](./lesson-3-get-started-with-community-edition.ipynb)
-  * [x] [Lesson 4. Free trial on Azure](./lesson-4-free-trial-on-azure.ipynb)
-  * [x] [Lesson 5. Exploring Workspace](./lesson-5-exploring-workspace.ipynb)
-  * [x] [Lesson 6. Course Materials](./lesson-6-course-materials.ipynb)
-  * [x] [Lesson 7. Creating Cluster](./lesson-7-creating-cluster.ipynb)
-  * [x] [Lesson 8. Notebooks Fundamentals](./lesson-8-notebooks-fundamentals.ipynb)
-  * [x] [Lesson 9. Databricks Repos (Git folders)](./lesson-9-databricks-repos-git-folders.ipynb)
+  * [x] [Lecture 1. Course Overview](./Lecture-1-course-overview.ipynb)
+  * [x] [Lecture 2. What is Databricks](./Lecture-2-what-is-databricks.ipynb)
+  * [x] [Lecture 3. Get started with Community Edition](./Lecture-3-get-started-with-community-edition.ipynb)
+  * [x] [Lecture 4. Free trial on Azure](./Lecture-4-free-trial-on-azure.ipynb)
+  * [x] [Lecture 5. Exploring Workspace](./Lecture-5-exploring-workspace.ipynb)
+  * [x] [Lecture 6. Course Materials](./Lecture-6-course-materials.ipynb)
+  * [x] [Lecture 7. Creating Cluster](./Lecture-7-creating-cluster.ipynb)
+  * [x] [Lecture 8. Notebooks Fundamentals](./Lecture-8-notebooks-fundamentals.ipynb)
+  * [x] [Lecture 9. Databricks Repos (Git folders)](./Lecture-9-databricks-repos-git-folders.ipynb)
 
 
 ### Section 2: Databricks Lakehouse Platform
 
-  * [ ] [Lesson 10. Delta Lake](./lesson-10-delta-lake.ipynb)
-  * [ ] [Lesson 11. Understanding Delta Tables (Hands On)](./lesson-11-understanding-delta-tables-hands-on.ipynb)
-  * [ ] [Lesson 12. Advanced Delta Lake Features](./lesson-12-advanced-delta-lake-features.ipynb)
-  * [ ] [Lesson 13. Apply Advanced Delta Features (Hands On)](./lesson-13-apply-advanced-delta-features-hands-on.ipynb)
-  * [ ] [Lesson 14. Relational entities](./lesson-14-relational-entities.ipynb)
-  * [ ] [Lesson 15. Databases and Tables on Databricks (Hands On)](./lesson-15-databases-and-tables-on-databricks-hands-on.ipynb)
-  * [ ] [Lesson 16. Set Up Delta Tables](./lesson-16-set-up-delta-tables.ipynb)
-  * [ ] [Lesson 17. Views](./lesson-17-views.ipynb)
-  * [ ] [Lesson 18. Working with Views (Hands On)](./lesson-18-working-with-views-hands-on.ipynb)
+  * [ ] [Lecture 10. Delta Lake](./Lecture-10-delta-lake.ipynb)
+  * [ ] [Lecture 11. Understanding Delta Tables (Hands On)](./Lecture-11-understanding-delta-tables-hands-on.ipynb)
+  * [ ] [Lecture 12. Advanced Delta Lake Features](./Lecture-12-advanced-delta-lake-features.ipynb)
+  * [ ] [Lecture 13. Apply Advanced Delta Features (Hands On)](./Lecture-13-apply-advanced-delta-features-hands-on.ipynb)
+  * [ ] [Lecture 14. Relational entities](./Lecture-14-relational-entities.ipynb)
+  * [ ] [Lecture 15. Databases and Tables on Databricks (Hands On)](./Lecture-15-databases-and-tables-on-databricks-hands-on.ipynb)
+  * [ ] [Lecture 16. Set Up Delta Tables](./Lecture-16-set-up-delta-tables.ipynb)
+  * [ ] [Lecture 17. Views](./Lecture-17-views.ipynb)
+  * [ ] [Lecture 18. Working with Views (Hands On)](./Lecture-18-working-with-views-hands-on.ipynb)
 

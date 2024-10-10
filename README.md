@@ -37,5 +37,5 @@ This repository organizes daily study materials for the Databricks Certified Dat
 
 Each day's folder contains:
 - **README.md**: Contains the day's checklist, summary, and additional resources.
-- **notebooks**: Practical exercises and examples related to the lessons' topics.
+- **notebooks**: Practical exercises and examples related to the lectures' topics.
 
