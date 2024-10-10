@@ -11,7 +11,7 @@
   * Persona: *Senior Big Data Engineer*, 
   * Experience: 10+ years of experience working on software and data science projects including large data projects on Databricks
   * Based: France
-  * Holds: 5 certifications from Databricks
+  * Holds: 5+ certifications from Databricks
   * Linkedin: https://www.linkedin.com/in/DerarAlhussein
 
 - Course outline
@@ -106,10 +106,12 @@
   like your Azure storage or your S3 buckets.
   So even after the cluster is terminated, all the data is safe in your cloud storage.
 
+- [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34664668#overview)
 
 ### Lesson 3. Get started with Community Edition
 
   - Community edition is a lightweight Databricks environment for personal use and training.
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34722722#overview)
 
 
 ### Lesson 4. Free trial on Azure
@@ -124,25 +126,26 @@
   allowing you to explore and try out Azure services 
   free of charge and up to specified limits for each service.
 
-  [Watch Video]()
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34725890#overview)
+
 
 ### Lesson 5. Exploring Workspace
 
-  [Watch Video]()
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34727098#overview)
 
 
 ### Lesson 6. Course Materials
 
-  Github Repository: https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate
+  - Github Repository: https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate
 
-  [Course Materials DBC](../resources/Course-Materials.dbc)
+  - [Course Materials DBC](../resources/Course-Materials.dbc)
 
-  [Watch Video]()
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34742090#overview)
 
 
 ### Lesson 7. Creating Cluster
 
-  Navigate to "Compute" in the left side bar. ...
+  - Navigate to "Compute" in the left side bar. ...
 
   - A **cluster** is a set of nodes or computers working together like a single entity. 
   It consists of a master node called the driver and some other worker nodes.
@@ -174,7 +177,7 @@
     This helps to track the activity on a cluster.
     * In the driver log, you will get the log generated within the cluster notebooks and libraries.
 
-  [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34728190)
+  - [Watch Video](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/learn/lecture/34728190)
 
 
 ### Lesson 8. Notebooks Fundamentals
