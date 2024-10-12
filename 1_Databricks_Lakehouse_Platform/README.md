@@ -21,7 +21,7 @@ On Day 1, we will dive into the foundational concepts of the Databricks Lakehous
 
 ### Section 2: Databricks Lakehouse Platform
 
-  * [ ] [Lecture 10. Delta Lake](./Lecture-10-delta-lake.ipynb)
+  * [x] [Lecture 10. Delta Lake](./Lecture-10-delta-lake.ipynb)
   * [ ] [Lecture 11. Understanding Delta Tables (Hands On)](./Lecture-11-understanding-delta-tables-hands-on.ipynb)
   * [ ] [Lecture 12. Advanced Delta Lake Features](./Lecture-12-advanced-delta-lake-features.ipynb)
   * [ ] [Lecture 13. Apply Advanced Delta Features (Hands On)](./Lecture-13-apply-advanced-delta-features-hands-on.ipynb)
