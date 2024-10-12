@@ -22,7 +22,7 @@
   * [x] [Lecture 13. Apply Advanced Delta Features (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-13-apply-advanced-delta-features-hands-on.ipynb)
   * [x] [Lecture 14. Relational entities](./Section-2_Databricks-Lakehouse-Platform/Lecture-14-relational-entities.ipynb)
   * [x] [Lecture 15. Databases and Tables on Databricks (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-15-databases-and-tables-on-databricks-hands-on.ipynb)
-  * [ ] [Lecture 16. Set Up Delta Tables](./Section-2_Databricks-Lakehouse-Platform/Lecture-16-set-up-delta-tables.ipynb)
+  * [x] [Lecture 16. Set Up Delta Tables](./Section-2_Databricks-Lakehouse-Platform/Lecture-16-set-up-delta-tables.ipynb)
   * [ ] [Lecture 17. Views](./Section-2_Databricks-Lakehouse-Platform/Lecture-17-views.ipynb)
   * [ ] [Lecture 18. Working with Views (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-18-working-with-views-hands-on.ipynb)
 
