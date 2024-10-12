@@ -5,11 +5,11 @@ This repository organizes daily study materials for the Databricks Certified Dat
 
 ## Resources
 
-- [Udemy Course: Databricks Certified Data Engineer Associate - Preparation](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/)
+- [Udemy Course **"Databricks Certified Data Engineer Associate - Preparation"**](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate/)
 
-- [Udemy Course: Practice Exams: Databricks Certified Data Engineer Associate](https://external-teksystems.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
+- [Udemy Course **"Practice Exams: Databricks Certified Data Engineer Associate"**](https://external-teksystems.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
 
-- [Udemy Course: Databricks Certified Data Engineer Associate Practice Exams](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate-practice-tests/)
+- [Udemy Course **"Databricks Certified Data Engineer Associate Practice Exams"**](https://external-teksystems.udemy.com/course/databricks-certified-data-engineer-associate-practice-tests/)
 
 
 - [Databricks Documentation](https://docs.databricks.com/)
@@ -37,5 +37,5 @@ This repository organizes daily study materials for the Databricks Certified Dat
 
 Each day's folder contains:
 - **README.md**: Contains the day's checklist, summary, and additional resources.
-- **notebooks**: Practical exercises and examples related to the lectures' topics.
+- **notebooks**: Lecture notes and exercises.
 
