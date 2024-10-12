@@ -24,7 +24,7 @@ On Day 1, we will dive into the foundational concepts of the Databricks Lakehous
   * [x] [Lecture 10. Delta Lake](./Lecture-10-delta-lake.ipynb)
   * [x] [Lecture 11. Understanding Delta Tables (Hands On)](./Lecture-11-understanding-delta-tables-hands-on.ipynb)
   * [x] [Lecture 12. Advanced Delta Lake Features](./Lecture-12-advanced-delta-lake-features.ipynb)
-  * [ ] [Lecture 13. Apply Advanced Delta Features (Hands On)](./Lecture-13-apply-advanced-delta-features-hands-on.ipynb)
+  * [x] [Lecture 13. Apply Advanced Delta Features (Hands On)](./Lecture-13-apply-advanced-delta-features-hands-on.ipynb)
   * [ ] [Lecture 14. Relational entities](./Lecture-14-relational-entities.ipynb)
   * [ ] [Lecture 15. Databases and Tables on Databricks (Hands On)](./Lecture-15-databases-and-tables-on-databricks-hands-on.ipynb)
   * [ ] [Lecture 16. Set Up Delta Tables](./Lecture-16-set-up-delta-tables.ipynb)
