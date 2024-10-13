@@ -30,40 +30,40 @@
 ## Section 3: ELT with Spark SQL and Python
 
   * [ ] [Lecture 19. Querying Files](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-19__Querying-Files.ipynb)
-  * [ ] [Lecture 20. Querying Files (Hands On)]()
-  * [ ] [Lecture 21. Writing to Tables (Hands On)]()
-  * [ ] [Lecture 22. Advanced Transformations (Hands On)]()
-  * [ ] [Lecture 23. Higher Order Functions and SQL UDFs (Hands On)]()
-  * [ ] [Lecture 24. Structured Streaming]()
+  * [ ] [Lecture 20. Querying Files (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-20__Querying-Files-(Hands-On).ipynb)
+  * [ ] [Lecture 21. Writing to Tables (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-21__Writing-to-Tables-(Hands-On).ipynb)
+  * [ ] [Lecture 22. Advanced Transformations (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-22__Advanced-Transformations-(Hands-On).ipynb)
+  * [ ] [Lecture 23. Higher Order Functions and SQL UDFs (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-23__Higher-Order-Functions-and-SQL-UDFs-(Hands-On).ipynb)
+  * [ ] [Lecture 24. Structured Streaming](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-24__Structured-Streaming.ipynb)
 
 
 ## Section 4: Incremental Data Processing
 
   * [ ] [Lecture 25. Structured Streaming (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-25__Structured-Streaming-(Hands-On).ipynb)
-  * [ ] [Lecture 26. Incremental Data Ingestion]()
-  * [ ] [Lecture 27. Auto Loader (Hands On)]()
-  * [ ] [Lecture 28. Multi-hop Architecture]()
-  * [ ] [Lecture 29. Multi-hop Architecture (Hands On)]()
+  * [ ] [Lecture 26. Incremental Data Ingestion](./Section-4_Incremental-Data-Processing/Lecture-26__Incremental-Data-Ingestion.ipynb)
+  * [ ] [Lecture 27. Auto Loader (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-27__Auto-Loader-(Hands-On).ipynb)
+  * [ ] [Lecture 28. Multi-hop Architecture](./Section-4_Incremental-Data-Processing/Lecture-28__Multi-hop-Architecture.ipynb)
+  * [ ] [Lecture 29. Multi-hop Architecture (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-29__Multi-hop-Architecture-(Hands-On).ipynb)
 
 
 ## Section 5: Production Pipelines
 
   * [ ] [Lecture 30. Delta Live Tables (Hands On)](./Section-5_Production-Pipelines/Lecture-30__Delta-Live-Tables-(Hands-On).ipynb)
-  * [ ] [Lecture 31. Change Data Capture]()
-  * [ ] [Lecture 32. Processing CDC Feed with DLT (Hands On)]()
-  * [ ] [Lecture 33. Jobs (Hands On)]()
-  * [ ] [Lecture 34. Databricks SQL]()
+  * [ ] [Lecture 31. Change Data Capture](./Section-5_Production-Pipelines/Lecture-31__Change-Data-Capture.ipynb)
+  * [ ] [Lecture 32. Processing CDC Feed with DLT (Hands On)](./Section-5_Production-Pipelines/Lecture-32__Processing-CDC-Feed-with-DLT-(Hands-On).ipynb)
+  * [ ] [Lecture 33. Jobs (Hands On)](./Section-5_Production-Pipelines/Lecture-33__Jobs-(Hands-On).ipynb)
+  * [ ] [Lecture 34. Databricks SQL](./Section-5_Production-Pipelines/Lecture-34__Databricks-SQL.ipynb)
 
 
 ## Section 6: Data Governance
 
   * [ ] [Lecture 35. Data Objects Privileges](./Section-6_Data-Governance/Lecture-35__Data-Objects-Privileges.ipynb)
-  * [ ] [Lecture 36. Managing Permissions (Hands On)]()
-  * [ ] [Lecture 37. Unity Catalog]()
+  * [ ] [Lecture 36. Managing Permissions (Hands On)](./Section-6_Data-Governance/Lecture-36__Managing-Permissions-(Hands-On).ipynb)
+  * [ ] [Lecture 37. Unity Catalog](./Section-6_Data-Governance/Lecture-37__Unity-Catalog.ipynb)
 
 
 ## Section 7: Certification Overview
 
   * [ ] [Lecture 38. Certification Overview](./Section-7_Certification-Overview/Lecture-38__Certification-Overview.ipynb)
-  * [ ] [Lecture 39. Bonus Lecture]()
+  * [ ] [Lecture 39. Bonus Lecture](./Section-7_Certification-Overview/Lecture-39__Bonus%20Lecture.ipynb)
 
