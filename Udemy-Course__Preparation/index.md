@@ -24,7 +24,7 @@
   * [x] [Lecture 15. Databases and Tables on Databricks (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-15-databases-and-tables-on-databricks-hands-on.ipynb)
   * [x] [Lecture 16. Set Up Delta Tables](./Section-2_Databricks-Lakehouse-Platform/Lecture-16-set-up-delta-tables.ipynb)
   * [x] [Lecture 17. Views](./Section-2_Databricks-Lakehouse-Platform/Lecture-17-views.ipynb)
-  * [ ] [Lecture 18. Working with Views (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-18-working-with-views-hands-on.ipynb)
+  * [x] [Lecture 18. Working with Views (Hands On)](./Section-2_Databricks-Lakehouse-Platform/Lecture-18-working-with-views-hands-on.ipynb)
 
 
 ## Section 3: ELT with Spark SQL and Python
