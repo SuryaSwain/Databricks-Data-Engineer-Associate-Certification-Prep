@@ -30,15 +30,15 @@
 ## Section 3: ELT with Spark SQL and Python
 
   * [x] [Lecture 19. Querying Files](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-19__Querying-Files.ipynb)
-  * [ ] [Lecture 20. Querying Files (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-20__Querying-Files-(Hands-On).ipynb)
-  * [ ] [Lecture 21. Writing to Tables (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-21__Writing-to-Tables-(Hands-On).ipynb)
-  * [ ] [Lecture 22. Advanced Transformations (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-22__Advanced-Transformations-(Hands-On).ipynb)
-  * [ ] [Lecture 23. Higher Order Functions and SQL UDFs (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-23__Higher-Order-Functions-and-SQL-UDFs-(Hands-On).ipynb)
-  * [ ] [Lecture 24. Structured Streaming](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-24__Structured-Streaming.ipynb)
+  * [x] [Lecture 20. Querying Files (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-20__Querying-Files-(Hands-On).ipynb)
+  * [x] [Lecture 21. Writing to Tables (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-21__Writing-to-Tables-(Hands-On).ipynb)
+  * [x] [Lecture 22. Advanced Transformations (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-22__Advanced-Transformations-(Hands-On).ipynb)
+  * [x] [Lecture 23. Higher Order Functions and SQL UDFs (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-23__Higher-Order-Functions-and-SQL-UDFs-(Hands-On).ipynb)
 
 
 ## Section 4: Incremental Data Processing
 
+  * [ ] [Lecture 24. Structured Streaming](./Section-4_Incremental-Data-Processing/Lecture-24__Structured-Streaming.ipynb)
   * [ ] [Lecture 25. Structured Streaming (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-25__Structured-Streaming-(Hands-On).ipynb)
   * [ ] [Lecture 26. Incremental Data Ingestion](./Section-4_Incremental-Data-Processing/Lecture-26__Incremental-Data-Ingestion.ipynb)
   * [ ] [Lecture 27. Auto Loader (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-27__Auto-Loader-(Hands-On).ipynb)
