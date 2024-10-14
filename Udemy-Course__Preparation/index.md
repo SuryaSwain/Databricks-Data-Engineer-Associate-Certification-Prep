@@ -29,7 +29,7 @@
 
 ## Section 3: ELT with Spark SQL and Python
 
-  * [ ] [Lecture 19. Querying Files](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-19__Querying-Files.ipynb)
+  * [x] [Lecture 19. Querying Files](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-19__Querying-Files.ipynb)
   * [ ] [Lecture 20. Querying Files (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-20__Querying-Files-(Hands-On).ipynb)
   * [ ] [Lecture 21. Writing to Tables (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-21__Writing-to-Tables-(Hands-On).ipynb)
   * [ ] [Lecture 22. Advanced Transformations (Hands On)](./Section-3_ELT-with-Spark-SQL-and-Python/Lecture-22__Advanced-Transformations-(Hands-On).ipynb)
