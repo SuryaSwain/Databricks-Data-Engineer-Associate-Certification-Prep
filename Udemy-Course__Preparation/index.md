@@ -42,7 +42,7 @@
   * [x] [Lecture 25. Structured Streaming (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-25__Structured-Streaming-(Hands-On).ipynb)
   * [x] [Lecture 26. Incremental Data Ingestion](./Section-4_Incremental-Data-Processing/Lecture-26__Incremental-Data-Ingestion.ipynb)
   * [x] [Lecture 27. Auto Loader (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-27__Auto-Loader-(Hands-On).ipynb)
-  * [ ] [Lecture 28. Multi-hop Architecture](./Section-4_Incremental-Data-Processing/Lecture-28__Multi-hop-Architecture.ipynb)
+  * [x] [Lecture 28. Multi-hop Architecture](./Section-4_Incremental-Data-Processing/Lecture-28__Multi-hop-Architecture.ipynb)
   * [ ] [Lecture 29. Multi-hop Architecture (Hands On)](./Section-4_Incremental-Data-Processing/Lecture-29__Multi-hop-Architecture-(Hands-On).ipynb)
 
 
