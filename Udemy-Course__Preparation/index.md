@@ -103,8 +103,8 @@ Data Engineers moving from other technologies and aiming to apply their skills t
 ### Section 5: Production Pipelines
 
   * [x] [Lecture 30. Delta Live Tables (Hands On)](./Section-5_Production-Pipelines/Lecture-30__Delta-Live-Tables-(Hands-On)-1.ipynb)
-  * [ ] [Lecture 31. Change Data Capture](./Section-5_Production-Pipelines/Lecture-31__Change-Data-Capture.ipynb)
-  * [ ] [Lecture 32. Processing CDC Feed with DLT (Hands On)](./Section-5_Production-Pipelines/Lecture-32__Processing-CDC-Feed-with-DLT-(Hands-On).ipynb)
+  * [x] [Lecture 31. Change Data Capture](./Section-5_Production-Pipelines/Lecture-31__Change-Data-Capture.ipynb)
+  * [x] [Lecture 32. Processing CDC Feed with DLT (Hands On)](./Section-5_Production-Pipelines/Lecture-32__Processing-CDC-Feed-with-DLT-(Hands-On).ipynb)
   * [ ] [Lecture 33. Jobs (Hands On)](./Section-5_Production-Pipelines/Lecture-33__Jobs-(Hands-On).ipynb)
   * [ ] [Lecture 34. Databricks SQL](./Section-5_Production-Pipelines/Lecture-34__Databricks-SQL.ipynb)
 
