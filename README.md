@@ -18,5 +18,17 @@
 - [ ] [Practice Test 2: Databricks Certified Data Engineer Associate - Practice Exam 2](./Udemy-Course__Practice-Exams/Practice-Test-2.ipynb)
 
 
-## [Databricks Documentation](https://docs.databricks.com/)
+## [Databricks](https://www.databricks.com/)
 
+### [Databricks Documentation](https://www.databricks.com/databricks-documentation)
+
+#### [Azure Databricks documentation | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/)
+
+#### [Databricks documentation | Databricks on AWS](https://docs.databricks.com/en/index.html)
+
+#### [Databricks documentation | Databricks on Google Cloud](https://docs.gcp.databricks.com/en/index.html)
+
+
+### [Help Center - Databricks](https://help.databricks.com)
+
+### [Free Training: Databricks Lakehouse Fundamentals](https://www.databricks.com/resources/learn/training/lakehouse-fundamentals)

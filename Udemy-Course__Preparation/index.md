@@ -111,8 +111,8 @@ Data Engineers moving from other technologies and aiming to apply their skills t
 
 ### Section 6: Data Governance
 
-  * [ ] [Lecture 35. Data Objects Privileges](./Section-6_Data-Governance/Lecture-35__Data-Objects-Privileges.ipynb)
-  * [ ] [Lecture 36. Managing Permissions (Hands On)](./Section-6_Data-Governance/Lecture-36__Managing-Permissions-(Hands-On).ipynb)
+  * [x] [Lecture 35. Data Objects Privileges](./Section-6_Data-Governance/Lecture-35__Data-Objects-Privileges.ipynb)
+  * [x] [Lecture 36. Managing Permissions (Hands On)](./Section-6_Data-Governance/Lecture-36__Managing-Permissions-(Hands-On).ipynb)
   * [ ] [Lecture 37. Unity Catalog](./Section-6_Data-Governance/Lecture-37__Unity-Catalog.ipynb)
 
 
