@@ -118,6 +118,6 @@ Data Engineers moving from other technologies and aiming to apply their skills t
 
 ### Section 7: Certification Overview
 
-  * [ ] [Lecture 38. Certification Overview](./Section-7_Certification-Overview/Lecture-38__Certification-Overview.ipynb)
-  * [ ] [Lecture 39. Bonus Lecture](./Section-7_Certification-Overview/Lecture-39__Bonus%20Lecture.ipynb)
+  * [x] [Lecture 38. Certification Overview](./Section-7_Certification-Overview/Lecture-38__Certification-Overview.ipynb)
+  * [x] [Lecture 39. Bonus Lecture](./Section-7_Certification-Overview/Lecture-39__Bonus%20Lecture.ipynb)
 
