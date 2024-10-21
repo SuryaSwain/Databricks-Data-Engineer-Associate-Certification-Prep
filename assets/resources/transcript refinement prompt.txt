@@ -1,0 +1,9 @@
+---
+The above is a transcript of a lecture video for Databricks Certified Data Engineer Associate Preparation course.
+
+Please correct grammatically without modify or improve.
+Don't modify words(except grammatical/contextural error), 
+but complete sentences/paragraphs properly and 
+apply proper formats like backticks, italic, bold, and italic bold to distinguish/enhance words/phrases or represent code snippets.
+
+And based on the content, please insert proper headings.
