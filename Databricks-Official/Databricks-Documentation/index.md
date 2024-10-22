@@ -1,4 +1,4 @@
 # Databricks Documentation
 
-0. [Introduction](./0__Introduction.md)
-1. [Lakehouse Architecture](./1__Lakehouse-Architecture.md)
+1. [Introduction](./1__Introduction.md)
+2. [Lakehouse Architecture](./2__Lakehouse-Architecture.md)
